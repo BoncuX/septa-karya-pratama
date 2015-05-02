@@ -5,7 +5,8 @@
             </div>
             <div class="row">
                 <div class="col-sm-6 wow fadeInLeft">
-                    <img class="img-responsive" src="<?php echo base_url('assets/images/main-feature.png'); ?>" alt="">
+                    <div class="home-feature" style="background-image:url('http://localhost/Chlorofest/septa-karya-pratama/assets/workshop_resize.jpg')">
+					</div>
                 </div>
                 <div class="col-sm-6">
                     <div class="media service-box wow fadeInRight">
